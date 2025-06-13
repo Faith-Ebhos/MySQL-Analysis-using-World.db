@@ -60,4 +60,5 @@ The World Database consists of key tables:
 
 
 
-[Data_Technician_Workbook_Week_3 Workbench Use (1).docx](https://github.com/user-attachments/files/20722557/Data_Technician_Workbook_Week_3.Workbench.Use.1.docx)
+[MySQL_Workbook(1).docx](https://github.com/user-attachments/files/20723206/MySQL_Workbook.1.docx)
+
